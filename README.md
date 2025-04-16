@@ -133,4 +133,4 @@ LuWal is licensed under the [GNU General Public License v2.0](http://www.gnu.org
 
 ---
 
-Designed and developed with ❤️ by [Your Name/Company]
+Designed and developed with ❤️ by Luka Deserranno
