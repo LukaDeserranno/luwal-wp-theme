@@ -1,7 +1,5 @@
 # LuWal WordPress Theme
 
-![LuWal Theme](https://via.placeholder.com/1200x600?text=LuWal+Theme)
-
 ![WordPress Version](https://img.shields.io/badge/WordPress-5.6%2B-blue.svg)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-purple.svg)
 ![License](https://img.shields.io/badge/License-GPL%20v2-green.svg)
